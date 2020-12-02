@@ -1,5 +1,6 @@
 # hello-world
-Just another repository.
+
+Hello GitHub!
 
 Nathan here. I am a student in college, studying Computer Science. 
 I am primarily interested in app and video game development, but I also enjoy solving coding challenges.
